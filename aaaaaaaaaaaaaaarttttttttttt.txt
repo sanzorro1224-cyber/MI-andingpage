@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FC 24 - Trucos y Regates</title>
+  <style>
+    /* ===== ESTILOS GENERALES ===== */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: url('https://i.imgur.com/6Cl8VrM.jpeg') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+    }
+
+    header {
+      background: rgba(0, 100, 0, 0.8);
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+
+    nav {
+      margin-top: 10px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+      …
+[8:54 a.m., 29/9/2025] Manzana De Tamarindo: Ya
+[8:54 a.m., 29/9/2025] Manzana De Tamarindo: <!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FC 24 - Trucos y Regates</title>
+  <style>
+    /* ===== ESTILOS GENERALES ===== */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1vhzmgNpYqLDFkdy7fm2oCNijFjcCHUMX_SupwHTVQg&s=10') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+    }
+
+    header {
+      background: rgba(0, 100, 0, 0.8);
+      padding: 20px;
+      text-align: center;
+      position: relative;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    header img.balon {
+      width: 50px;
+      height: 50px;
+      vertical-align: middle;
+      margin-left: 10px;
+      animation: bounce 1s infinite alternate;
+    }
+
+    nav {
+      margin-top: 10px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+
+    nav a:hover {
+      color: #FFD700;
+    }
+
+    section {
+      padding: 50px 20px;
+      text-align: center;
+      background: rgba(0, 0, 0, 0.6);
+      margin: 20px;
+      border-radius: 15px;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    section img {
+      max-width: 500px;
+      width: 100%;
+      border-radius: 10px;
+      margin-top: 20px;
+      transition: transform 0.3s;
+    }
+
+    section img:hover {
+      transform: scale(1.05);
+    }
+
+    footer {
+      background: rgba(0, 100, 0, 0.9);
+      padding: 15px;
+      text-align: center;
+      font-size: 0.9em;
+    }
+
+    /* ===== FORMULARIO ===== */
+    form {
+      display: flex;
+      flex-direction: column;
+      max-width: 400px;
+      margin: 0 auto;
+      gap: 10px;
+    }
+
+    input, button {
+      padding: 10px;
+      border-radius: 5px;
+      border: none;
+    }
+
+    button {
+      background: #008000;
+      color: white;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    button:hover {
+      background: #FFD700;
+    }
+
+    /* ===== ANIMACIONES ===== */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes bounce {
+      from { transform: translateY(0); }
+      to { transform: translateY(-15px); }
+    }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 768px) {
+      header h1 { font-size: 2em; }
+      section { padding: 30px 15px; }
+      section img { max-width: 100%; }
+      header img.balon { width: 40px; height: 40px; }
+    }
+  </style>
+</head>
+<body>
+  <!-- ENCABEZADO -->
+  <header>
+    <h1>FC 24 - Trucos y Regates</h1>
+    <img class="balon" src="https://img.freepik.com/vector-gratis/vector-aislado-balon-futbol-realista-sobre-blanco_1284-41932.jpg" alt="Balón de fútbol">
+    <p><strong>"Empieza a ganar más con estos trucos"</strong></p>
+    <nav>
+      <a href="#inicio">Inicio</a>
+      <a href="#tiros">Tiros</a>
+      <a href="#regates">Regates</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <!-- SECCIÓN INICIO -->
+  <section id="inicio">
+    <h2>Bienvenido a los mejores trucos de FC 24</h2>
+    <p>Aprende las combinaciones secretas de botones para mejorar tu juego.</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmdhkFmQjPvXVdXKwLNSgk0gL2MPr0rKAkgco-GiZDOQ&s=10" alt="Celebración FC 24">
+  </section>
+
+  <!-- SECCIÓN TIROS -->
+  <section id="tiros">
+    <h2>🔥 Tiros Especiales</h2>
+    <p>Domina disparos potentes, colocados y con efecto para sorprender al rival.</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxD8EE2PCamf7Wv0QhXdtprZiB8jhwCRDgesKBxnFLw&s=10" alt="Haaland disparando en FC 24">
+    <button onclick="mostrarTip()">Ver Tip Rápido</button>
+    <p id="tip" style="display:none; margin-top:10px; font-weight:bold; color:#FFD700;">
+      TIP: Mantén L1 + círculo para disparos colocados imparables 🔥
+    </p>
+  </section>
+
+  <!-- SECCIÓN REGATES -->
+  <section id="regates">
+    <h2>⚡ Regates y Skills</h2>
+    <p>Conviértete en un maestro de los regates y humilla a tus oponentes con estilo.</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1vhzmgNpYqLDFkdy7fm2oCNijFjcCHUMX_SupwHTVQg&s=10" alt="Regates FC 24">
+  </section>
+
+  <!-- SECCIÓN CONTACTO -->
+  <section id="contacto">
+    <h2>📩 Contacto</h2>
+    <form onsubmit="return validarFormulario()">
+      <input type="text" id="nombre" placeholder="Tu Nombre">
+      <input type="email" id="correo" placeholder="Tu Correo">
+      <button type="submit">Enviar</button>
+    </form>
+  </section>
+
+  <!-- PIE DE PÁGINA -->
+  <footer>
+    <p>Sigue a EA Sports en redes sociales:</p>
+    <a href="https://twitter.com/EASPORTSFC" target="_blank">Twitter</a> | 
+    <a href="https://www.instagram.com/easportsfc/" target="_blank">Instagram</a> | 
+    <a href="https://www.facebook.com/easportsfc" target="_blank">Facebook</a>
+    <p>&copy; 2024 FC 24 Trucos - No oficial</p>
+  </footer>
+
+  <!-- JAVASCRIPT -->
+  <script>
+    function validarFormulario() {
+      const nombre = document.getElementById("nombre").value;
+      const correo = document.getElementById("correo").value;
+
+      if (nombre.length < 3) {
+        alert("El nombre debe tener al menos 3 caracteres");
+        return false;
+      }
+      if (correo === "") {
+        alert("El correo no puede estar vacío");
+        return false;
+      }
+      alert("¡Formulario enviado con éxito!");
+      return true;
+    }
+
+    function mostrarTip() {
+      const tip = document.getElementById("tip");
+      tip.style.display = (tip.style.display === "none") ? "block" : "none";
+    }
+  </script>
+</body>
+</html>
